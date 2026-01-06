@@ -1,1 +1,6 @@
+temp=14
+if temp>12:
+    print(f"is cold {temp}?")
+else:
+    print(f"cold {temp}?")
 print("hello world")
